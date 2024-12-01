@@ -17,6 +17,16 @@ function App() {
         >
           Learn React
         </a>
+        <table>
+          <tr>
+            <td>Tra sua</td>
+            <td>Ca phe</td>
+          </tr>
+          <tr>
+            <td>10k</td>
+            <td>20K</td>
+          </tr>
+        </table>
       </header>
     </div>
   );
